@@ -70,3 +70,21 @@ fetch('./data.json')
             container.appendChild(card);
         }
     });
+
+
+// Bài 3: Hiển thị dữ liệu từu file data.js
+function renderStudents(){
+    // Dùng DOM lấy container
+    const container = document.getElementById('studentList');
+
+    // Duyệt danh sách students
+    students.forEach(student => {
+        // Tạo thẻ li cho từng student
+        const li = document.createElement('li');
+        li.textContent = `${student.name} - ${student.age} tuổi`;
+        // Thêm thẻ li vào container
+        container.appendChild(li);
+    });
+}
+    // Gọi hàm thực hiện
+renderStudents()
