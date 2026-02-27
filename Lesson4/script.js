@@ -32,3 +32,41 @@ form.addEventListener('submit', function(event) {
     message.textContent = 'Đăng ký thành công!';
     message.style.color = 'green';
 });
+
+// Bài 2: Lấy data từ file để hiển thị website
+    // Lấy dữ liệu từ file JSON
+fetch('./data.json')
+    // Chuyển đổi dữ liệu thành đối tượng JavaScript
+    .then(response => response.json())
+    // Xử lý dữ liệu sau khi đã chuyển đổi
+    .then(data => {
+        // Dùng DOM lấy container (thẻ div chứa sản phẩm)
+        const container = document.getElementById('productList');
+
+        // Duyệt danh sách sảm phẩm trong data
+        for (let item of data) {
+            // Tạo thẻ div có class="product-card" cho từng sản phẩm
+            const card = document.createElement('div');
+            card.className = 'product-card';
+
+            // Lấy dữ liệu img
+            const img = document.createElement('img');
+            img.src = item.image;
+
+            // Lấy dữ liệu name (tên sản phẩm)
+            const name = document.createElement('h3');
+            name.textContent = item.name;
+
+            // Lấy dữ liệu price (giá sản phẩm)
+            const price = document.createElement('p');
+            price.textContent = `Giá: $${item.price}`;
+
+            // Thêm img, name, price vào thẻ div (card)
+            card.appendChild(img);
+            card.appendChild(name);
+            card.appendChild(price);
+
+            // Thêm thẻ div (card) vào container
+            container.appendChild(card);
+        }
+    });
