@@ -8,3 +8,10 @@ Các file có trong folder:
 - styles.css
 - script.js
 - tracnghiem.txt (ghi các đáp án trắc nghiệm vào file này)
+
+Bảo lâm: 6/10 9/10
+Khải Hoàng: 7/10 9/10
+Xuân Tú: 6/10 9/10
+Minh Nhật: 8/10 9/10
+Quang Huy: 9/10 9/10
+Gia Bảo
