@@ -138,12 +138,5 @@
         "image": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91",
         "price": 1200000,
         "description": "Kệ treo tường giúp tiết kiệm diện tích và tăng tính thẩm mỹ."
-    },
-    {
-        "id": 21,
-        "name": "Bàn console",
-        "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc",
-        "price": 2600000,
-        "description": "Bàn console trang trí đặt ở hành lang hoặc phòng khách."
     }
 ]
