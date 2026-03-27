@@ -1,0 +1,149 @@
+[
+    {
+        "id": 1,
+        "name": "Sofa băng",
+        "image": "https://cdn.hstatic.net/products/200000539713/harmony_b_ngg-01_3c81be8cbf2c4191b937c986708cf7e9_1024x1024.png",
+        "price": 5000000,
+        "description": "Sofa băng Harmony được thiết kế với kiểu dáng hiện đại, phù hợp với nhiều không gian phòng khách. Chất liệu vải cao cấp mang lại cảm giác mềm mại và dễ chịu khi sử dụng."
+    },
+    {
+        "id": 2,
+        "name": "Sofa góc chữ L",
+        "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7",
+        "price": 8500000,
+        "description": "Sofa góc chữ L giúp tối ưu không gian phòng khách, thiết kế hiện đại và phù hợp cho gia đình đông người."
+    },
+    {
+        "id": 3,
+        "name": "Bàn trà mặt kính",
+        "image": "https://images.unsplash.com/photo-1615873968403-89e068629265",
+        "price": 2500000,
+        "description": "Bàn trà mặt kính sang trọng, dễ lau chùi và phù hợp với nhiều phong cách nội thất."
+    },
+    {
+        "id": 4,
+        "name": "Kệ tivi gỗ",
+        "image": "https://images.unsplash.com/photo-1598300053653-3c4a1a70d3d6",
+        "price": 3200000,
+        "description": "Kệ tivi gỗ tự nhiên bền đẹp, thiết kế đơn giản nhưng tinh tế."
+    },
+    {
+        "id": 5,
+        "name": "Giường ngủ gỗ",
+        "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
+        "price": 7000000,
+        "description": "Giường ngủ chắc chắn, chất liệu gỗ cao cấp mang lại cảm giác ấm cúng."
+    },
+    {
+        "id": 6,
+        "name": "Tủ quần áo 3 cánh",
+        "image": "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf",
+        "price": 6500000,
+        "description": "Tủ quần áo rộng rãi với thiết kế 3 cánh tiện lợi."
+    },
+    {
+        "id": 7,
+        "name": "Bàn làm việc",
+        "image": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4",
+        "price": 2800000,
+        "description": "Bàn làm việc hiện đại, phù hợp cho học tập và làm việc tại nhà."
+    },
+    {
+        "id": 8,
+        "name": "Ghế xoay văn phòng",
+        "image": "https://images.unsplash.com/photo-1582582429416-2d1a5f4b6d23",
+        "price": 1800000,
+        "description": "Ghế xoay êm ái, hỗ trợ tốt cho cột sống khi ngồi lâu."
+    },
+    {
+        "id": 9,
+        "name": "Tủ giày thông minh",
+        "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "price": 2200000,
+        "description": "Tủ giày thiết kế thông minh, tiết kiệm diện tích."
+    },
+    {
+        "id": 10,
+        "name": "Bàn ăn 6 ghế",
+        "image": "https://images.unsplash.com/photo-1606787366850-de6330128bfc",
+        "price": 9000000,
+        "description": "Bộ bàn ăn sang trọng, phù hợp cho gia đình 4-6 người."
+    },
+    {
+        "id": 11,
+        "name": "Ghế ăn bọc nệm",
+        "image": "https://images.unsplash.com/photo-1578898887932-dce23a595ad4",
+        "price": 1200000,
+        "description": "Ghế ăn bọc nệm tạo cảm giác thoải mái khi sử dụng."
+    },
+    {
+        "id": 12,
+        "name": "Tủ đầu giường",
+        "image": "https://images.unsplash.com/photo-1582582494700-5a4d9b6a3a2d",
+        "price": 900000,
+        "description": "Tủ nhỏ gọn để đầu giường, tiện lợi để đồ cá nhân."
+    },
+    {
+        "id": 13,
+        "name": "Kệ sách đứng",
+        "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794",
+        "price": 2100000,
+        "description": "Kệ sách thiết kế hiện đại, giúp không gian gọn gàng hơn."
+    },
+    {
+        "id": 14,
+        "name": "Bàn trang điểm",
+        "image": "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf",
+        "price": 3500000,
+        "description": "Bàn trang điểm có gương lớn và nhiều ngăn tiện lợi."
+    },
+    {
+        "id": 15,
+        "name": "Ghế thư giãn",
+        "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7",
+        "price": 2700000,
+        "description": "Ghế thư giãn êm ái, phù hợp đọc sách và nghỉ ngơi."
+    },
+    {
+        "id": 16,
+        "name": "Tủ bếp gỗ",
+        "image": "https://images.unsplash.com/photo-1556912173-3bb406ef7e77",
+        "price": 12000000,
+        "description": "Tủ bếp hiện đại với chất liệu gỗ bền đẹp."
+    },
+    {
+        "id": 17,
+        "name": "Bàn học sinh",
+        "image": "https://images.unsplash.com/photo-1588072432836-e10032774350",
+        "price": 1900000,
+        "description": "Bàn học thiết kế phù hợp cho học sinh, chắc chắn và tiện dụng."
+    },
+    {
+        "id": 18,
+        "name": "Ghế đôn sofa",
+        "image": "https://images.unsplash.com/photo-1616627451515-cbc80e5c8b6c",
+        "price": 800000,
+        "description": "Ghế đôn nhỏ gọn, có thể dùng làm chỗ ngồi hoặc gác chân."
+    },
+    {
+        "id": 19,
+        "name": "Tủ trang trí",
+        "image": "https://images.unsplash.com/photo-1616486029423-aaa4789e8c9a",
+        "price": 4000000,
+        "description": "Tủ trang trí giúp không gian phòng khách thêm sinh động."
+    },
+    {
+        "id": 20,
+        "name": "Kệ treo tường",
+        "image": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91",
+        "price": 1200000,
+        "description": "Kệ treo tường giúp tiết kiệm diện tích và tăng tính thẩm mỹ."
+    },
+    {
+        "id": 21,
+        "name": "Bàn console",
+        "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc",
+        "price": 2600000,
+        "description": "Bàn console trang trí đặt ở hành lang hoặc phòng khách."
+    }
+]
