@@ -1,0 +1,12 @@
+Quy tắc đặt tên folder cho CP2: [TenLop]_[HoTen]_CP2
+Ví dụ: JSA32_BuiDucTrung_CP2
+
+Link đề bài: shorturl.at/6hekG
+
+Các file có trong folder:
+- index.html 
+- styles.css
+- script.js
+- weather-data.json
+- ......
+- tracnghiem.txt (ghi các đáp án trắc nghiệm vào file này)
