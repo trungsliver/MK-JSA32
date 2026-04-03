@@ -1,13 +1,13 @@
 Thứ tự thuyết trình JSA32
 
-1. Khải Hoàng:
+1. Khải Hoàng: Website bán cây cảnh
 
-2. Bảo Lâm:
+2. Bảo Lâm: Website bán giày thể thao
 
-3. Quang Huy:
+3. Quang Huy: Website bán trang sức
 
-4. Gia Bảo:
+4. Gia Bảo: Website game Steam
 
-5. Minh Nhật:
+5. Minh Nhật: Website dịch vụ thú cưng
 
-6. Xuân Tú:
+6. Xuân Tú: Website nghe nhạc
