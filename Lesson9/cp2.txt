@@ -1,0 +1,20 @@
+Quy tắc đặt tên folder cho CP2: [TenLop]_[HoTen]_CP2
+Ví dụ: JSA32_BuiDucTrung_CP2
+
+Link đề bài: shorturl.at/6hekG
+
+Các file có trong folder:
+- index.html 
+- styles.css
+- script.js
+- weather-data.json
+- ......
+- tracnghiem.txt (ghi các đáp án trắc nghiệm vào file này)
+
+Kết quả
+Bảo Lâm: 7/10 9/10 = 8
+Gia Bảo: 8/10 9/10 = 8.5
+Khải Hoàng: 6/10 9/10 = 7.5
+Minh Nhật: 8/10 8/10 = 8
+Quang Huy: 8/10 9/10 = 8.5
+Xuân Tú: 7/10 9/10 = 8
